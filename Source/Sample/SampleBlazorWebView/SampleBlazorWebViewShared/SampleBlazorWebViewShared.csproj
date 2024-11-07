@@ -4,7 +4,7 @@
 		<TargetFrameworks>net6.0;net8.0</TargetFrameworks>
 	</PropertyGroup>
 
-	<Import Project="$(BuildToolsDirectory)Directory.webview.blazor.common.targets" />
+	<!--<Import Project="$(BuildToolsDirectory)Directory.webview.blazor.common.targets" />-->
 
 	<ItemGroup>
 		<PackageReference Include="Avalonia" />
